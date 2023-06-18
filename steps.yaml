@@ -12,5 +12,5 @@ job:
         run:  |
           pwd
           node --v
-        
+          ls -la
 
